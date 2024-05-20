@@ -357,3 +357,4 @@ console.log(jonasObject.age);
 console.log(jonasObject.age);
 
 console.log(jonasObject.getSummary());
+console.log("hello world");
