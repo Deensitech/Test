@@ -414,3 +414,8 @@ if (markObject.bmi > johnObject.bmi) {
     `${johnObject.fullName}'s BMI (${johnObject.bmi}) is higher than ${markObject.fullName}'s (${markObject.bmi})`
   );
 }
+
+//LOOP (FOR): FOR loop keeps running while condition is TRUE;
+for (let rep = 1; rep <= 10; rep++) {
+  console.log(`Lifting weights repetition ${rep} 🏋️🏋️🏋️`);
+}
